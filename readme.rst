@@ -1,29 +1,10 @@
 ###################
-What is CodeIgniter
+Kursus Musik
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
-
-*******************
-Release Information
-*******************
-
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Dibangun menggunakan framework CodeIgniter3. Didedikasikan untuk memenuhi tugas kuliah hehe..
+Aplikasi Kursus Musik Cendrawasih ini memiliki halaman tampilan depan yang akan menampilkan Visi-Misi, Jadwal Kursus, Fasilitas, dan Kontak.
+Pengunjung dapat melihat informasinya di sana. Pengunjung juga dapat mendaftarkan dirinya untuk menjadi peserta atau peserta didik di tempat kursus. Pengunjung yang telah mendaftarkan akun dapat mengakses halaman dasbor yang dapat digunakan untuk mengelola jadwal kursus yang diikuti serta memperbarui data dirinya.
 
 *******************
 Server Requirements
@@ -43,7 +24,7 @@ Please see the `installation section <https://codeigniter.com/user_guide/install
 of the CodeIgniter User Guide.
 
 *******
-License
+Lisensi CodeIgniter 3
 *******
 
 Please see the `license

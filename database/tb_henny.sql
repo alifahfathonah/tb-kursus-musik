@@ -115,7 +115,7 @@ CREATE TABLE IF NOT EXISTS `peserta` (
   `id_peserta` int(11) NOT NULL AUTO_INCREMENT,
   `nama` varchar(50) NOT NULL DEFAULT '0',
   `id_kursus` int(11) NOT NULL DEFAULT 0,
-  `alamat` text NOT NULL DEFAULT '0',
+  `alamat` text NOT NULL,
   `jk` char(1) NOT NULL DEFAULT '0',
   `no_hp` varchar(50) NOT NULL DEFAULT '0',
   `email` varchar(50) NOT NULL DEFAULT '0',
